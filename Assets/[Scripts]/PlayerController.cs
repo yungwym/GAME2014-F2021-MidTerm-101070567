@@ -1,4 +1,19 @@
-﻿using System.Collections;
+﻿/*
+ * Full Name - Robert Alex Wymer 
+ * Student ID - 101070567
+ * Date Modified - October 24, 2021
+ * File - PlayerController.cs
+ * Description - Player Controller, manages players movement, firing bullets and players movement bounds 
+ * Revision - v1.0 Initial verison, Horizontal movement and bounds, firing bullets 
+ *          - v1.1 - Updated for landscape orientation, changed horizontal variables to vertical 
+ *                 - Move() - Changed WorldTouch and transform.position to test aganist y coordinate instead of x
+ *                 - CheckBounds() - Tests aganist players y position and verticalBoundary 
+ */
+
+
+
+
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEditor;

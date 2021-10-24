@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿/*
+ * Full Name - Robert Alex Wymer 
+ * Student ID - 101070567
+ * Date Modified - October 24, 2021
+ * File - BulletFactory.cs
+ * Description - BulletFactory, creates different Types of bullet Objects
+ * Revision - v1.0 Initial verison, Creates types of bullets - Regular, Fat, Pulsing 
+ *          
+ *                
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
